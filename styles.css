@@ -1,11 +1,11 @@
-@charset "UTF-8";
+@charset "utf-8";
 /* CSS Document */
 
 body {
 	background-color: #273744;
 }
 .hero {
-	background-image: url(home-page-iceland.jpg);
+	background-image: url(/images/home-page-iceland.jpg);
 	background-position: center center;
 	background-size: cover;
 	min-height: 500px;
