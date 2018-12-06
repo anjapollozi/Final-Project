@@ -1,0 +1,11 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <div class="container">
+      <ul class="nav">
+        <li class="nav-item"> <a class="nav-link rounded" href="../index.html">Home</a> </li>
+        <li class="nav-item"> <a class="nav-link rounded" href="../book.html">The Book</a> </li>
+        <li class="nav-item"> <a class="nav-link rounded" href="../expedition/ships.html">The Ships</a> </li>
+        <li class="nav-item"> <a class="nav-link rounded" href="../expedition/command.html">The Command</a> </li>
+        <li class="nav-item"> <a class="nav-link rounded" href="../expedition/expedition.html">The Expedition</a> </li>
+        <li class="nav-item"> <a class="nav-link rounded" href="../show.html">The Show</a> </li>
+      </ul>
+    </div>
