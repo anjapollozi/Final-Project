@@ -20,7 +20,7 @@
         <li class="nav-item"> <a class="nav-link rounded" href="../Summertrip/Day2.html">Day 2</a> </li>
         <li class="nav-item"> <a class="nav-link rounded" href="../Summertrip/day3.html">Day 3</a> </li>
         <li class="nav-item"> <a class="nav-link rounded" href="../Summertrip/day4.html">Day 4</a> </li>
-        <li class="nav-item"> <a class="nav-link rounded" href="../extras.html">Extras</a> </li>
+        <li class="nav-item"> <a class="nav-link rounded" href="../Explore More.html">Explore More</a> </li>
       </ul>
     </div>
 <!-- #EndLibraryItem --><!-- TemplateEndIf --><!-- TemplateBeginIf cond="Hero" -->
@@ -32,7 +32,7 @@
         <li class="nav-item"> <a class="nav-link rounded" href="../Summertrip/Day2.html">Day 2</a> </li>
         <li class="nav-item"> <a class="nav-link rounded" href="../Summertrip/day3.html">Day 3</a> </li>
         <li class="nav-item"> <a class="nav-link rounded" href="../Summertrip/day4.html">Day 4</a> </li>
-        <li class="nav-item"> <a class="nav-link rounded" href="../extras.html">Extras</a> </li>
+        <li class="nav-item"> <a class="nav-link rounded" href="../Explore More.html">Explore More</a> </li>
       </ul>
     </div>
 <!-- #EndLibraryItem --><div class="container text-center align-middle mt-5">
