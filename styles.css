@@ -2,7 +2,7 @@
 /* CSS Document */
 
 body {
-	background-color: #273744;
+	background-color: #A32A2A;
 }
 .hero {
 	background: url("images/home-page-iceland.jpg");
@@ -23,7 +23,7 @@ a.nav-link {
 	font-weight: lighter;
 }
 a:hover.nav-link {
-	color: #273744;
+	color: #053B13;
 	background-color: rgba(255,255,255,0.75);
 	margin-right: 1em;
 	font-weight: lighter;
@@ -35,16 +35,16 @@ a:hover.nav-link {
 	font-weight: lighter;
 }
 .hero a:hover.nav-link {
-	color: #273744;
+	color: #4872BD;
 	background-color: rgba(255,255,255,0.25);
 	margin-right: 1em;
 	font-weight: lighter;
 }
 h1, h2, h3, h4 {
-	color: #273744;
+	color: #053B13;
 }
 p {
-	color: #292929
+	color: #920909
 }
 .videoWrapper {
 	position: relative;
